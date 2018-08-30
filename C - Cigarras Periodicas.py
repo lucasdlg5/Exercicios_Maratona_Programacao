@@ -44,4 +44,4 @@ while fam < POP:
 
 print (dic_anosSaida.keys())
 
-for i in dic_anosSaida.keys():
+#for i in dic_anosSaida.keys():

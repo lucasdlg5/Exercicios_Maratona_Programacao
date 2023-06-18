@@ -1,7 +1,7 @@
 # Exercicios_Maratona_Programacao
 
 Retirado de: https://www.fateclins.edu.br/site/maratona/dicas.php
-## como preparar-se
+## Como preparar-se
 
 Alguns Links interessantes:
 
@@ -29,7 +29,7 @@ Alguns Links interessantes:
 
 • http://www.lia.ufc.br/~wladimir/gemp/index.html - Página de Treinamento do Grupo de Maratona da Universidade Federal do Ceará com Dicas, Links, Exemplos e material de estudo para Maratonas de Programação. 
 
-## exemplo de problema
+## Exemplo de problema
 
 Dada uma lista de N inteiros, encontre a soma de todos eles.
 
@@ -41,14 +41,18 @@ A entrada é composta de um único caso de teste. A primeira linha contém um in
 ### Saída
 Seu programa deve produzir uma única linha na saída, contendo a soma de todos os N inteiros.
 
+
 Restrições
 0 ≤ N ≤ 50
 |X| ≤ 5000
+
+
 
 Exemplo Entrada
 2
 2
 3
+
 
 Saída
 5	Exemplo Entrada
@@ -57,11 +61,13 @@ Saída
 5
 3
 
+
 Saída
 9
 
-exemplo de código soma.c
 
+Exemplo de código soma.c
+```
 #include <stdio.h>
 int main(int argc, const char * argv[]){
   int n, s, i, t=0;
@@ -75,3 +81,4 @@ int main(int argc, const char * argv[]){
   printf("%i\n", t);
   return 0;
 }
+```

@@ -1,6 +1,12 @@
 # Exercicios_Maratona_Programacao
 
-Retirado de: https://www.fateclins.edu.br/site/maratona/dicas.php
+Outros Links uteis:
+http://www.lia.ufc.br/~wladimir/gemp/index.html
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=0
+https://www.computersciencemaster.com.br/exercicios-de-logica-de-programacao/
+https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf
+
+Texto abaixo retirado de: https://www.fateclins.edu.br/site/maratona/dicas.php
 ## Como preparar-se
 
 Alguns Links interessantes:

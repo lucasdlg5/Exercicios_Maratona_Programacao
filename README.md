@@ -67,7 +67,8 @@ Saída
 
 
 Exemplo de código soma.c
-```
+
+```C
 #include <stdio.h>
 int main(int argc, const char * argv[]){
   int n, s, i, t=0;
